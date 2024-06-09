@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string name="viewdetail">viewdetail</string>
+    <string name="add">add</string>
+    <string name="date">date</string>
+    <string name="morningscreen">morningscreen</string>
+    <string name="afternoonscreen">afternoonscreen</string>
+    <string name="activitynotes">activitynotes</string>
+    <string name="clearr">clearr</string>
+    <string name="start">start</string>
+    <string name="exit">exit</string>
+    <string name="averagescreentime">averageScreenTime</string>
+    <string name="backbutton">backButton</string>
+    <string name="details">details</string>
+</resources>
